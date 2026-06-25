@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 나의 AI 블로그 :heartpulse:
+title: 나의 AI 블로그 :heartpulse: 
 subtitle: 🤖 n8n + Solar AI가 자동으로 작성합니다
 ---
 
