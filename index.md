@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 나라샘의 AI 블로그
+title: 🥠나라샘의 AI 블로그
 subtitle: 🤖 n8n + Solar AI가 자동으로 작성합니다
 ---
 
