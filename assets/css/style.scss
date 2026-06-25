@@ -54,7 +54,7 @@ body {
 .intro-header h1 {
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 900;
-  font-size: 2rem !important;
+  font-size: 2.5rem !important;
   letter-spacing: -.02em;
 }
 .intro-header .post-subheading,
@@ -298,7 +298,7 @@ hr { border-color: var(--border); }
 /* ── 반응형 ── */
 @media (max-width: 768px) {
   body { font-size: 0.9rem; }
-  .intro-header h1 { font-size: 1.6rem !important; }
+  .intro-header h1 { font-size: 2rem !important; }
   .post-preview { padding: 14px 16px; }
   .post-preview > a > .post-title { font-size: 0.95rem; }
 }
